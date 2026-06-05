@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PlayPing",
+  "description": "Network ping utility and app latency simulation tool with professional diagnostic metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
