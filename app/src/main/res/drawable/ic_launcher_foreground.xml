@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Play arrow styled triangle inside safe boundary -->
+    <path
+        android:pathData="M 38,36 L 64,54 L 38,72 Z"
+        android:fillColor="#007AFF" />
+    <!-- Concentric ping wave curves -->
+    <path
+        android:pathData="M 52,24 A 30,30 0 0,1 78,54 A 30,30 0 0,1 52,84"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M 64,34 A 20,20 0 0,1 82,54 A 20,20 0 0,1 64,74"
+        android:strokeWidth="5"
+        android:strokeColor="#00C753"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+</vector>
